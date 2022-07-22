@@ -1,0 +1,14 @@
+{
+  "name": "cluster-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cluster.js.js",
+  "scripts": {
+    "start": "nodemon cluster.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
